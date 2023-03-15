@@ -1,11 +1,3 @@
-/*
- * Demo program to add your Nuttyfi, NodeMCU ESP8266 or ESP32 wifi board to 
- * Blynk2.0 IoT mobile app & web dashboard
- *  for any query or any soluiton, visit to www.smedehradun.com
- *  To design your customized hardware or boards, visit to www.nuttyengineer.com 
- *  Youtube Channel: https://www.youtube.com/c/SMEDehradun
- */
-
 #include <ESP8266WiFi.h>
 
 String apiKey = "33ZK4CPQEY4P3QYI"; // write your "Write API key"
